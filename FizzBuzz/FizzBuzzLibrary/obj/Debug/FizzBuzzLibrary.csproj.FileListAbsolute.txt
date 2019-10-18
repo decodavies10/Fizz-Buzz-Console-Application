@@ -1,0 +1,5 @@
+\\ukysaps001\daviesd$\Learning\TDD Test Driven Development\FizzBuzz\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.dll
+\\ukysaps001\daviesd$\Learning\TDD Test Driven Development\FizzBuzz\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.pdb
+\\ukysaps001\daviesd$\Learning\TDD Test Driven Development\FizzBuzz\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.csproj.CoreCompileInputs.cache
+\\ukysaps001\daviesd$\Learning\TDD Test Driven Development\FizzBuzz\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.dll
+\\ukysaps001\daviesd$\Learning\TDD Test Driven Development\FizzBuzz\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.pdb
